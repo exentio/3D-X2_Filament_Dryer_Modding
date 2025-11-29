@@ -17,6 +17,10 @@ with SWD pins exposed, but also with no flash protection whatsoever.
 The goal of this repo is to document my progress with modding this dryer and
 make it available to everyone.  
 
+**In case of possible variants being sold, double check the PCB images and
+things like IC models from the schematic images. I take no responsibility for
+broken hardware.**
+
 ### Hardware specifications and other details
 
 + Rated voltage/power: 24V 2A (48W)  
