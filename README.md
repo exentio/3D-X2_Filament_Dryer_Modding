@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/exentio/3D-X2_Filament_Dryer_Modding/refs/heads/main/images/preview.jpg)
 
 This is a filament dryer that can be found for cheap on Aliexpress, by word
-salad brands like Kingroon and Keepang.  
+salad brands like Kingroon and Keepang ([example](https://aliexpress.com/item/1005009156634726.html)).  
 
 I paid €27,48 for mine after discounts and I bought it with the intention to
 build a custom PCB for it with a better temperature sensor and an ESP32, sure
