@@ -14,7 +14,7 @@ What I wasn't expecting was that the PCB would've been so simple to
 reverse-engineer, and to find an STM32 (precisely, STM32G030F6P6), not only
 with SWD pins exposed, but also with no flash protection whatsoever.  
 
-The repo of this goal is to document my progress with modding this dryer and
+The goal of this repo is to document my progress with modding this dryer and
 make it available to everyone.  
 
 ### Hardware specifications and other details
