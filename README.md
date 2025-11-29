@@ -1,5 +1,7 @@
 # 3D-X2 Filament Dryer Modding
 
+![](https://raw.githubusercontent.com/exentio/3D-X2_Filament_Dryer_Modding/refs/heads/main/images/preview.jpg)
+
 This is a filament dryer that can be found for cheap on Aliexpress, by word
 salad brands like Kingroon and Keepang.  
 
