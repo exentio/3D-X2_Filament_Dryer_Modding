@@ -18,8 +18,8 @@ The goal of this repo is to document my progress with modding this dryer and
 make it available to everyone.  
 
 **In case of possible variants being sold, double check the PCB images and
-things like IC models from the schematic images. I take no responsibility for
-broken hardware.**
+things like IC models from the schematics. The original firmware dump is not
+tested, dump your own too. I take no responsibility for broken hardware.**
 
 ### Hardware specifications and other details
 
