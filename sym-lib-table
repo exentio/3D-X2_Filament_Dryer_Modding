@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "STM32G030F6P6")(type "KiCad")(uri "${KIPRJMOD}/lib/STM32G030F6P6/STM32G030F6P6.kicad_sym")(options "")(descr ""))
+  (lib (name "SSP7903P33PR")(type "KiCad")(uri "${KIPRJMOD}/lib/SSP7903P33PR/SSP7903P33PR.kicad_sym")(options "")(descr ""))
+  (lib (name "SMBJ28A")(type "KiCad")(uri "${KIPRJMOD}/lib/SMBJ28A/SMBJ28A.kicad_sym")(options "")(descr ""))
+)
