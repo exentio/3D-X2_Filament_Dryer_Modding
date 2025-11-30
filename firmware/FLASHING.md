@@ -24,3 +24,15 @@ It's recommended to dump the firmware multiple times and compare the checksums
 to make sure you have a working firmware dump.  
 
 To flash the firmware: `st-flash --reset --format binary write firmware.bin 0x8000000`  
+
+### Unbricking
+
+Should you ever find yourself unable to flash (happens with Arduino), here's
+what works for me.  
+
+Connect SWD as normal, and connect the nRST pin to GND.  
+Get the flash command ready in a terminal or your favorite tool, but wait
+before launching the flash.  
+In another terminal, run this command, it will fail saying it can't find any chip id:
+`st-flash --reset --connect-under-reset --format binary write original_firmware_dump.bin 0x08000000`  
+Then launch the flash command quickly, as soon as you disconnect the reset pin from GND.  
