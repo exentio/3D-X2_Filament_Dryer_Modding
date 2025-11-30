@@ -4954,6 +4954,12 @@
 		(uuid "4bbc768a-60f5-4d09-a886-7eb45b62efb2")
 	)
 	(junction
+		(at 254 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f67634f-4b86-40de-908c-79fcc90ddddf")
+	)
+	(junction
 		(at 53.34 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5126,12 +5132,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef0e01a9-c00f-4503-a99e-fba2a915915a")
-	)
-	(junction
-		(at 254 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f6be650e-8082-430b-9e47-e4e56fd21455")
 	)
 	(junction
 		(at 116.84 119.38)
@@ -5534,16 +5534,6 @@
 			(type default)
 		)
 		(uuid "20ec11dc-fba2-4f26-83c6-d7ce33c47bf1")
-	)
-	(wire
-		(pts
-			(xy 254 129.54) (xy 254 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22c65ce7-7f41-455e-bb31-27a327bb8d6a")
 	)
 	(wire
 		(pts
@@ -7237,7 +7227,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 128.27) (xy 254 128.27)
+			(xy 252.73 129.54) (xy 254 129.54)
 		)
 		(stroke
 			(width 0)
@@ -7527,7 +7517,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 128.27) (xy 254 127)
+			(xy 254 127) (xy 254 129.54)
 		)
 		(stroke
 			(width 0)
@@ -8179,7 +8169,7 @@
 	)
 	(global_label "NRST"
 		(shape input)
-		(at 252.73 128.27 180)
+		(at 252.73 129.54 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8189,7 +8179,7 @@
 		)
 		(uuid "69d444ec-4d25-4ad4-be96-3b97b146563e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 244.9672 128.27 0)
+			(at 244.9672 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)

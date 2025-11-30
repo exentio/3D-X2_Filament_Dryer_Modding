@@ -32,7 +32,7 @@ I take no responsibility for broken hardware.**
 sitting under the filament roll  
 + Fan: 24V 40mm blower (actual fan diameter 30mm)  
 + Sensors:
-  + SMD thermistor, likely 10KΩ rated value, soldered in the middle of the heater  
+  + SMD thermistor, likely 100KΩ rated value, soldered in the middle of the heater  
   + 2-pin relative humidity sensor glued on the bottom of the dryer, likely a
   CJ-HR31D resistive humidity sensor  
 + Other hardware info:  
