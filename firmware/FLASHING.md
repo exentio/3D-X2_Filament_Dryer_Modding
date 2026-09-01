@@ -14,7 +14,7 @@ The pinout of the headers on the back of the PCB is as follows:
 | 5   | nRST        |
 | 6   | GND         |
 
-Keep in mind, the order is right to left, top to bottom, ask marked on the
+Keep in mind, the order is right to left, top to bottom, as marked on the
 silkscreen.  
 
 You'll need STLINK Tools [from this repo](https://github.com/stlink-org/stlink).  
